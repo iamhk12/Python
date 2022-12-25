@@ -2,7 +2,7 @@
 
 letter = '''
 Dear <name>, You are selected on <date>.
-Greeting from Tech.pvt.ltfd.
+Greeting from TeamX Tech.pvt.ltd.
 '''
 
 #solution
